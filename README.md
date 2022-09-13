@@ -1,4 +1,4 @@
-<h1 align="center">Sensor de Movimento</h1>
+<h1 align="center">Sensor de Movimento 2.0</h1>
 
 <h2>Essa é uma versão melhorada do circuito <a href="https://github.com/Mech24689/Sensor-de-movimento.git"> "Sensor de Movimento"</a>, pois além de emitir um som ao detectar movimento, ele contém dois led(Vermelho e Verde). Quando o led vermelho estiver aceso, significa que tem algo em movimento, mas caso esteja no verde, significa que não há nada se movendo no campo de visão do sensor.<h2>
 
