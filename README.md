@@ -1,6 +1,6 @@
 <h1 align="center">Sensor de Movimento</h1>
 
-<h2>Essa é uma versão melhorada do circuito <a href="Sensor-de-movimento"> "Sensor de Movimento"</a>, pois além de emitir um som ao detectar movimento, ele contém dois led(Vermelho e Verde). Quando o led vermelho estiver aceso, significa que tem algo em movimento, mas caso esteja no verde, significa que não há nada se movendo no campo de visão do sensor.<h2>
+<h2>Essa é uma versão melhorada do circuito <a href="https://github.com/Mech24689/Sensor-de-movimento.git"> "Sensor de Movimento"</a>, pois além de emitir um som ao detectar movimento, ele contém dois led(Vermelho e Verde). Quando o led vermelho estiver aceso, significa que tem algo em movimento, mas caso esteja no verde, significa que não há nada se movendo no campo de visão do sensor.<h2>
 
 <div align="center">
 <h3 align="center">Imagem do circuito</h3>
